@@ -1,1 +1,1 @@
-# notes-app
+# The Note App
